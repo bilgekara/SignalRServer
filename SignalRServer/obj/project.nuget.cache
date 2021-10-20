@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9ZqtdddukoaSciQ2K8L0bVbagdNHnLomdQivA2H31k1Q7dfeMPyxpClRoaZyf58HRFSDUm63odnBbKes5YTpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karab\\source\\repos\\STAJ\\server-example\\SignalRServer\\SignalRServer\\SignalRServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karab\\.nuget\\packages\\mqttnet\\3.0.16\\mqttnet.3.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
